@@ -1,0 +1,5 @@
+cls:
+C:\Users\RyanChung\AppData\Local\Programs\MiKTeX\tex\latex\ieeetran
+
+bst:
+C:\Users\RyanChung\AppData\Local\Programs\MiKTeX\bibtex\bst\ieeetran
