@@ -1,2 +1,2 @@
 # IEEE_PJ_LaTeX
-LaTeX tex scripts for IEEE Photonics Journal
+LaTeX doi-clickable bst/tex example for IEEE Photonics Journal
